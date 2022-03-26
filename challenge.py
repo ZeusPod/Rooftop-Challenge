@@ -1,5 +1,5 @@
 
-#creo la planitalla de la matriz con **
+#creo la plantilla de la matriz con **
 
 def matriz_diagonal(matriz ):
     m = []
